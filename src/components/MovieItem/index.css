@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.bg-color {
+  background-color: white;
+  padding: 50px;
+}
+.btn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
